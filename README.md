@@ -8,6 +8,8 @@ Once I figure out why I am getting errors when I build it into an .exe I will in
 
 
 Overview
+
+
 Data Guardian is a robust encryption tool designed to safeguard your data using both symmetric (single key) and asymmetric encryption (private and public keys).
 By using Data Guardian, you can ensure the security of your sensitive data with state-of-the-art encryption technology and multiple layers of security.
 After creating an account, you will gain access to a personal vault for encrypting and decrypting files.
@@ -15,6 +17,8 @@ Credentials are securely stored locally in the program's main directory. The use
 The overall security of the system heavily relies on the confidentiality of your private key. It is crucial to keep this key secure and private.
 
 Accessing the Vault
+
+
 To access your vault, you need to provide your private key, encrypted symmetric key, and your login credentials (username and password).
 Once access is granted, you can encrypt and decrypt files as needed.
 The encryption and decryption processes utilize the symmetric key, which is automatically decrypted during login and remains vulnerable only during the program's usage.
@@ -34,10 +38,14 @@ Private Key: The only key that can decrypt the symmetric key, and other data enc
 
 
 WARNING
+
+
 Storage Caution: Avoid storing the private key on the same computer as the application to mitigate the risk of unauthorized access in case of a security breach.
 Loss of Access: Losing access to your private key or symmetric key means permanent inaccessibility to your data. It is vital to take necessary precautions.
 
 Recommendations
+
+
 External Storage: For enhanced security, consider saving your keys to an external USB drive, hard drive, or other storage media.
 Key Copies: Evaluate the advantages and risks of creating multiple copies of your private and symmetric keys.
 
