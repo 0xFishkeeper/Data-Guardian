@@ -6,8 +6,6 @@ To run the program install a python IDE and install the depencies found at the t
 
 Please read the in program readme before using and use at your own risk
 
-Once I figure out why I am getting errors when I build it into an .exe I will include it in the repository :)
-
 
 Overview
 
